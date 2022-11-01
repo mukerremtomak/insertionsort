@@ -7,7 +7,8 @@ Big-O gösterimini yazınız.
 Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-###insertion sort; verilen dizideki en küçük elemanı bularak başa yazdıktan sonra dizideki elemanların yerini değiştirerek küçükten büyüğe sıralama yapmamızı istemektedir. ve her eleman sadece yer değiştirip kendinden daha küçük bir elaman gelen dek yer tutmaktadır.
+###insertion sort; verilen dizideki en küçük elemanı bularak başa yazdıktan sonra dizideki elemanların yerini değiştirerek küçükten büyüğe sıralama yapmamızı istemektedir. 
+ve her eleman sadece yer değiştirip kendinden daha küçük bir elaman gelen dek yer tutmaktadır.
 
 [22,27,16,2,18,6] n
 
